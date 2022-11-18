@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Didimukhtar
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning css
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me EMAIL: Jamilatmukhtar2014@gmail.com
 
